@@ -1,6 +1,6 @@
 # NY Citi Bike with Tableau
 
-## [link to tableau dashboard](https://public.tableau.com/app/profile/taylor.mathieu)
+## [Link To Tableau Dashboard](https://public.tableau.com/app/profile/taylor.mathieu)
 
 ## For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
 
